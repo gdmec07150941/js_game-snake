@@ -3,7 +3,7 @@
 ### 案例介绍
 ### 游戏演示
 
-演示：[贪吃蛇](index.html)
+演示：[贪吃蛇](https://gdmec07150941.github.io/js_game-snake/index.html)
 
 #### 案例目标
 目的是用来体会JavaScript高级语法面向对象的使用
